@@ -24,7 +24,7 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+We will get down the walking, running, jumping, and basic environment.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
@@ -32,7 +32,7 @@ TODO
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+We fully implement what is stated above with a detailed environment, checkpoints, realistic movement, and detailed creature/ monster.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
