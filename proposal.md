@@ -10,7 +10,7 @@ TODO
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Our game will allow the user to run, walk, and parkour around an area we will design while trying to escape from a creature/monster that moves slightly faster than the player. Using Unity, we will program an environment that forces the player to use the movement mechanics we plan to implement in order to reach an objective that would make the player "safe" from the creature. 
+Our game will allow the user to run, walk, and parkour around an area we will design while trying to escape from a creature/monster that moves slightly faster than the player. Using Unity, we will program an environment that forces the player to use the movement mechanics we plan to implement in order to reach an objective that would make the player "safe" from the creature. We plan on using  C# to 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
