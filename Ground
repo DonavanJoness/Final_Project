@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class LayerMaskManager : MonoBehaviour
+{
+    public LayerMask whatIsGround;
+
+    void Start()
+    {
+        // Define the layer mask "WhatIsGround" to include the "Ground" layer
+        whatIsGround = LayerMask.GetMask("Ground");
+
+        // You can also add multiple layers to the mask using bitwise OR operation
+        // For example, if you have layers "Ground" and "Obstacle" and you want both in the mask:
+        // whatIsGround = LayerMask.GetMask("Ground", "Obstacle");
+    }
+}
